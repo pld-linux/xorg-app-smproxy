@@ -1,5 +1,5 @@
 Summary:	smproxy application
-Summary(pl):	Aplikacja smproxy
+Summary(pl.UTF-8):   Aplikacja smproxy
 Name:		xorg-app-smproxy
 Version:	1.0.2
 Release:	1
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 smproxy application.
 
-%description -l pl
+%description -l pl.UTF-8
 Aplikacja smproxy.
 
 %prep
