@@ -1,5 +1,5 @@
 Summary:	smproxy application
-Summary(pl.UTF-8):   Aplikacja smproxy
+Summary(pl.UTF-8):	Aplikacja smproxy
 Name:		xorg-app-smproxy
 Version:	1.0.2
 Release:	1
