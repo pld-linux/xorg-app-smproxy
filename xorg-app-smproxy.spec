@@ -1,12 +1,12 @@
 Summary:	smproxy application - Session Manager proxy
 Summary(pl.UTF-8):	Aplikacja smproxy - proxy zarządcy sesji (SM)
 Name:		xorg-app-smproxy
-Version:	1.0.7
+Version:	1.0.8
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	https://xorg.freedesktop.org/releases/individual/app/smproxy-%{version}.tar.xz
-# Source0-md5:	9f7a4305f0e79d5a46c3c7d02df9437d
+# Source0-md5:	6484cd8ee30354aaaf8f490988f5f6ef
 URL:		https://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
